@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    font-family: cursive;
+}
+h1 {
+    font-family: cursive;
+    text-decoration: double underline;
+    text-align: center;
+    font-size: 700%;
+    margin-top: 35px;
+}
+button {
+    display: inline;
+    font-size: 60px;
+    background-color: #04E2AF;
+    font-family: cursive;
+    margin: 10px;
+    margin-left: 420px;
+    border-radius: 10px;
+    border: black solid 4px;
+}
+.button2 {
+    background-color:red;
+}
+a {
+    text-decoration: none;
+}

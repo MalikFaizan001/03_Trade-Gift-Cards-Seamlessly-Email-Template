@@ -1,0 +1,210 @@
+body {
+    margin: 0;
+    font-family:Poppins;
+}
+.Local-Traders-Banner{
+    display: block;
+    margin: auto;
+    width: 900px;
+    height: auto;
+    margin-top: -4px;
+}
+.About-Giftcard {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    width:400px;
+    height: auto;
+}
+.Link-1 {
+    background-color: #1A1C55;
+    text-align: center;
+    font-size:22px;
+    font-weight: 600;
+    width: 52%;
+    padding: 5px;
+    border-radius:5px;
+}
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.Parent-div {
+    display: flex;
+    justify-content: center;
+}
+.Dear-Traders {
+    color: #9C6AFD;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 1px;
+}
+.P-Tag-1 {
+    text-align: center;
+    color: #868686;
+    font-size: 18px;
+    font-weight: 600;
+}
+span {
+    color: #04E2AF;
+}
+.image-div {
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+}
+.Parent-image-div {
+    display: flex;
+    justify-content: center;
+}
+.image1 {
+    width:50px;
+}
+.Text-Div {
+    display: flex;
+    justify-content: center;
+    font-size: 12px;
+    color: #1B1773;
+}
+.h3-1 {
+    width: 13%;
+    display: flex;
+    justify-content:space-evenly;
+    margin-top:1px;
+    text-align: center;
+}
+.h2-1 {
+    color: #1A1C55;
+    background-color: #04E2AF;
+    text-align: center;
+    font-size:20px;
+    font-weight: 600;
+    padding:5px;
+    width: 52%;
+    border-radius: 5px
+}
+.h2-div {
+    display: flex;
+    justify-content: center;
+}
+li {
+    color: #1B1773;
+    font-size: 18px;
+    font-weight: 700;
+    margin-left: 400px;
+}
+.li-h3 {
+    margin-left: 400px;
+    margin-top: 5px;
+    color: #868686;
+    font-size: 16px;
+    font-weight: 400;
+}
+.h2-2 {
+    color: #FFFFFF;
+    background-color: #1A1C55;
+    text-align: center;
+    font-size:20px;
+    font-weight:600;
+    padding: 5px;
+    width: 52%;
+    border-radius: 5px;
+}
+.p-tag {
+    color: #868686;
+    text-align: center;
+    font-size: 17px;
+    font-weight:400;
+    margin-top: 1px;
+}
+.h2-3 {
+    color: #1A1C55;
+    background-color: #04E2AF;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 5px;
+    width: 52%;
+    border-radius: 5px;
+    margin-top: 1px;
+}
+.number-li {
+    margin-top: 10px;
+}
+.li-1 {
+    color: #1B1773;
+}
+.Zero-Fees {
+    width: 200px;
+}
+.Parent-Zero-Fees {
+    display: flex;
+    justify-content: center;
+}
+.h2-3 {
+    font-size: 16px;
+}
+.Link-2 {
+    color: #1A1C55;
+    background-color: #04E2AF;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 800;
+    width: 13%;
+    border-radius: 15px;
+    padding: 5px;
+    margin-right: -3px;
+}
+.Parent-Link-2 {
+    display: flex;
+    justify-content: center;
+}
+.Happy-Trading {
+    color: #9C6AFD;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 800;
+}
+.Best-regards {
+    color: #868686;
+    text-align: center;
+    font-size:19px;
+    font-weight: 800;
+    margin-top: -10px;
+}
+.Unsubscribe {
+    color: #A8A8A8;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+#Unsubscribe {
+    color: #1A1C55;
+    text-decoration: underline;
+}
+hr {
+    width: 60%;
+}
+.Last-1 {
+    color: #A8A8A8;
+    font-size: 13px;
+    text-align: center;
+    margin-right: 10px;
+}
+#h3-div {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.Social-Media-Platforms{
+    width: 12%;
+    margin-right: 600px;
+    margin-top: -15px;
+    margin-bottom: 60px;
+}
+.Parent-Social-Media-Platforms {
+    display: flex;
+    justify-content: center;
+}
